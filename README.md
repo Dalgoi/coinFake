@@ -34,3 +34,4 @@
 - [Firebase Realtime Database 문서](https://firebase.google.com/docs/database)
 - [Retrofit 문서](https://square.github.io/retrofit/)
 - [MPAndroidChart 문서](https://github.com/PhilJay/MPAndroidChart)
+- 이 코드는 학습 목적으로 작성되었습니다.
