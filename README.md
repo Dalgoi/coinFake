@@ -26,3 +26,11 @@
 4. Firebase 설정 파일(`google-services.json`)을 프로젝트에 추가합니다.
 5. `MainActivity.kt` 파일에서 API 키를 설정합니다.
 6. 애플리케이션을 빌드하고 실행합니다.
+
+## 참고
+
+- [Android Jetpack 문서](https://developer.android.com/jetpack)
+- [Firebase Authentication 문서](https://firebase.google.com/docs/auth)
+- [Firebase Realtime Database 문서](https://firebase.google.com/docs/database)
+- [Retrofit 문서](https://square.github.io/retrofit/)
+- [MPAndroidChart 문서](https://github.com/PhilJay/MPAndroidChart)
